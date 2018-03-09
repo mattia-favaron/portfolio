@@ -1,0 +1,15 @@
+# File System dir
+.directory
+.ini
+.DS_Store
+.idea
+
+# Hidden files
+.*
+!.gitignore
+!.htaccess
+
+# Other Files
+desktop.ini
+Thumbs.db
+ai/
