@@ -1,0 +1,347 @@
+html {
+  font-family: sans-serif;
+  -webkit-text-size-adjust: 100%;
+  -ms-text-size-adjust: 100%;
+}
+
+body {
+  margin: 0;
+}
+
+a {
+  background-color: transparent;
+}
+
+strong {
+  font-weight: bold;
+}
+
+h1 {
+  margin: .67em 0;
+  font-size: 2em;
+}
+
+img {
+  border: 0;
+}
+
+* {
+  -webkit-box-sizing: border-box;
+  -moz-box-sizing: border-box;
+  box-sizing: border-box;
+}
+
+*:before,
+*:after {
+  -webkit-box-sizing: border-box;
+  -moz-box-sizing: border-box;
+  box-sizing: border-box;
+}
+
+html {
+  font-size: 10px;
+}
+
+body {
+  font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+  font-size: 14px;
+  line-height: 1.42857143;
+  color: #333;
+  background-color: #fff;
+}
+
+a {
+  color: #337ab7;
+  text-decoration: none;
+}
+
+img {
+  vertical-align: middle;
+}
+
+h1,
+h2,
+h3,
+h4 {
+  font-family: inherit;
+  font-weight: 500;
+  line-height: 1.1;
+  color: inherit;
+}
+
+h1,
+h2,
+h3 {
+  margin-top: 20px;
+  margin-bottom: 10px;
+}
+
+h4 {
+  margin-top: 10px;
+  margin-bottom: 10px;
+}
+
+h1 {
+  font-size: 36px;
+}
+
+h2 {
+  font-size: 30px;
+}
+
+h3 {
+  font-size: 24px;
+}
+
+h4 {
+  font-size: 18px;
+}
+
+p {
+  margin: 0 0 10px;
+}
+
+.text-center {
+  text-align: center;
+}
+
+.container {
+  padding-right: 15px;
+  padding-left: 15px;
+  margin-right: auto;
+  margin-left: auto;
+}
+
+@media (min-width: 768px) {
+  .container {
+    width: 750px;
+  }
+}
+
+@media (min-width: 992px) {
+  .container {
+    width: 970px;
+  }
+}
+
+@media (min-width: 1200px) {
+  .container {
+    width: 1170px;
+  }
+}
+
+.row {
+  margin-right: -15px;
+  margin-left: -15px;
+}
+
+.col-xs-10 {
+  position: relative;
+  min-height: 1px;
+  padding-right: 15px;
+  padding-left: 15px;
+}
+
+.col-xs-10 {
+  float: left;
+}
+
+.col-xs-10 {
+  width: 83.33333333%;
+}
+
+.col-xs-offset-1 {
+  margin-left: 8.33333333%;
+}
+
+.container:before,
+.container:after,
+.row:before,
+.row:after {
+  display: table;
+  content: " ";
+}
+
+.container:after,
+.row:after {
+  clear: both;
+}
+
+.hidden {
+  display: none !important;
+}
+
+
+@media (max-width: 767px) {
+  .hidden-xs {
+    display: none !important;
+  }
+}
+
+
+* {
+  padding: 0;
+  margin: 0;
+}
+
+body {
+  font-family: "Ubuntu", sans-serif;
+  font-size: 100%;
+  background: #f8f8f8;
+}
+
+a {
+  text-decoration: none;
+  color: #666;
+}
+
+p {
+  line-height: 2em;
+  margin: 0 0 20px;
+  text-align: center;
+}
+
+h1 {
+  font-size: 7.2em;
+}
+
+h2 {
+  font-size: 5em;
+}
+
+h3 {
+  font-size: 4.5em;
+}
+
+h4 {
+  font-size: 3.1em;
+  margin: 0;
+  font-weight: 300;
+}
+
+body {
+  font-family: Dosis, SansSerif, Helvetica;
+}
+
+.gray {
+  color: #858585;
+}
+
+.darkGray {
+  color: #231f20;
+}
+
+.white {
+  color: white;
+}
+
+.blue {
+  color: #1d71b8;
+}
+
+#homeDown,
+#projectDown {
+  position: relative;
+}
+
+.arrow {
+  width: 30px;
+  height: 30px;
+  margin: 0 auto;
+}
+
+#presentationTitle {
+  margin: 0;
+  position: relative;
+}
+
+#presentationSubtitle {
+  display: inline-block;
+}
+
+#homeDown img {
+  opacity: 0;
+}
+
+
+
+.infoProject {
+  margin-top: 2em;
+}
+
+.infoProject .generalInfoProject .darkGray {
+  margin-left: 0.5em;
+  margin-right: 1em;
+}
+
+.infoProject .imageProject {
+  margin: 2em auto;
+}
+
+.infoProject .imageProject,
+.infoProject .imageProject .pcImage {
+  position: relative;
+}
+
+.imageProject .pcImage,
+.imageProject .deviceImage {
+  width: 42%;
+}
+
+.imageProject .deviceImage {
+  position: absolute;
+  left: 0;
+  right: 0;
+  margin: 0 auto;
+  opacity: 0;
+}
+
+.infoProject p {
+  font-size: 1.3em;
+}
+
+*,
+*:after,
+*::before {
+  -webkit-box-sizing: border-box;
+  -moz-box-sizing: border-box;
+  box-sizing: border-box;
+}
+
+#copyright {
+  position: absolute;
+  bottom: 0;
+  left: 0;
+  right: 0;
+  margin: 0 auto;
+}
+
+@media (max-width: 767px) {
+  h1 {
+    font-size: 4.5em;
+  }
+
+  h2 {
+    font-size: 3em;
+  }
+
+  h3 {
+    font-size: 2.7em;
+  }
+
+  h4 {
+    font-size: 2em;
+  }
+
+  .infoProject {
+    margin-top: 0.5em;
+  }
+
+  .infoProject p {
+    font-size: 1em;
+  }
+
+  .infoProject .imageProject {
+    display: none;
+  }
+}

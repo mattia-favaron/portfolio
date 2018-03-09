@@ -1,0 +1,1 @@
+<IfModule mod_headers.c>	<FilesMatch "(?i)^.*\.(css|htm|html|gif|jpg|jpeg|js|png|pdf)$">		Header set Cache-Control "max-age=0,must-revalidate"	</FilesMatch></IfModule>

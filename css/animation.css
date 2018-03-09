@@ -1,0 +1,68 @@
+@keyframes presentationTitleAnimation {
+  0%   {top: -150px; opacity: 0;}
+  100% {top: 0; opacity: 1;}
+}
+@-webkit-keyframes presentationTitleAnimation {
+  0%   {top: -150px; opacity: 0;}
+  100% {top: 0; opacity: 1;}
+}
+@-moz-keyframes presentationTitleAnimation {
+  0%   {top: -150px; opacity: 0;}
+  100% {top: 0; opacity: 1;}
+}
+@-o-keyframes presentationTitleAnimation {
+  0%   {top: -150px; opacity: 0;}
+  100% {top: 0; opacity: 1;}
+}
+@keyframes fadeIn {
+  0%    {opacity: 0;}
+  100%  {opacity: 1;}
+}
+@-webkit-keyframes fadeIn {
+  0%    {opacity: 0;}
+  100%  {opacity: 1;}
+}
+@-moz-keyframes fadeIn {
+  0%    {opacity: 0;}
+  100%  {opacity: 1;}
+}
+@-o-keyframes fadeIn  {
+  0%    {opacity: 0;}
+  100%  {opacity: 1;}
+}
+@keyframes blink {
+  0% { opacity:1; }
+  50% { opacity:0; }
+  100% { opacity:1; }
+}
+@-webkit-keyframes blink {
+  0% { opacity:1; }
+  50% { opacity:0; }
+  100% { opacity:1; }
+}
+@-moz-keyframes blink {
+  0% { opacity:1; }
+  50% { opacity:0; }
+  100% { opacity:1; }
+}
+@-o-keyframes blink {
+  0% { opacity:1; }
+  50% { opacity:0; }
+  100% { opacity:1; }
+}
+@keyframes deviceAnimation {
+  0% {bottom: -1em; opacity: 0;}
+  100% {bottom: 0; opacity: 1;}
+}
+@-webkit-keyframes deviceAnimation {
+  0% {bottom: -1em; opacity: 0;}
+  100% {bottom: 0; opacity: 1;}
+}
+@-moz-keyframes deviceAnimation {
+  0% {bottom: -1em; opacity: 0;}
+  100% {bottom: 0; opacity: 1;}
+}
+@-o-keyframes deviceAnimation {
+  0% {bottom: -1em; opacity: 0;}
+  100% {bottom: 0; opacity: 1;}
+}

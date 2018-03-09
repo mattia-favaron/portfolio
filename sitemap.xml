@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+    xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
+    <url>
+        <loc>http://mattiafavaron.com/</loc>
+        <lastmod>2016-04-01</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.8</priority>
+    </url>
+    <url>
+        <loc>http://mattiafavaron.com/#project/</loc>
+        <lastmod>2016-04-01</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.4</priority>
+    </url>
+    <url>
+        <loc>http://mattiafavaron.com/#project/wakerino/</loc>
+        <lastmod>2016-06-03</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.6</priority>
+        <image:image>
+            <image:loc>http://mattiafavaron.com/img/wakerinoDesktop.png</image:loc>
+            <image:caption>Wakerino on desktop</image:caption>
+        </image:image>
+    </url>
+    <url>
+        <loc>http://mattiafavaron.com/#project/warca/</loc>
+        <lastmod>2016-04-01</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.6</priority>
+        <image:image>
+            <image:loc>http://mattiafavaron.com/img/warcaDevice.png</image:loc>
+            <image:caption>Warca website on mobile device</image:caption>
+        </image:image>
+        <image:image>
+            <image:loc>http://mattiafavaron.com/img/warcaDesktop.png</image:loc>
+            <image:caption>Warca website on desktop</image:caption>
+        </image:image>
+    </url>
+    <url>
+        <loc>http://mattiafavaron.com/#project/premi/</loc>
+        <lastmod>2016-04-01</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.6</priority>
+        <image:image>
+            <image:loc>http://mattiafavaron.com/img/premiDevice.png</image:loc>
+            <image:caption>Premi on mobile device</image:caption>
+        </image:image>
+        <image:image>
+            <image:loc>http://mattiafavaron.com/img/premiDesktop.png</image:loc>
+            <image:caption>Premi on desktop</image:caption>
+        </image:image>
+    </url>
+    <url>
+        <loc>http://mattiafavaron.com/#about/</loc>
+        <lastmod>2016-04-01</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.8</priority>
+    </url>
+    <url>
+        <loc>http://mattiafavaron.com/#contacts/</loc>
+        <lastmod>2016-04-01</lastmod>
+        <changefreq>yearly</changefreq>
+        <priority>0.4</priority>
+    </url>
+</urlset>
